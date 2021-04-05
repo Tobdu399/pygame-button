@@ -129,7 +129,8 @@ class button:
         else:
             self.active_color = self.color
 
-        if self.is_clicked:
-            self.current_font = self.highlight_font
-        else:
-            self.current_font = self.font
+        self.current_font = self.font
+        # if self.is_clicked:
+        #     self.current_font = self.highlight_font
+        # else:
+        #     self.current_font = self.font

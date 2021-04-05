@@ -24,7 +24,7 @@ Python pygame module for creating simple buttons. This module requires at least 
 ---
 
 ## Usage
-[example.py](example/example.py)
+[example.py](example.py)
 
 ```
 import pygame
@@ -40,7 +40,9 @@ while True:
     btn.show()
 ```
 
-![](.github/images/example.gif)
+<p align="center">
+  <img width="600" height="341" src=".github/images/example.gif" alt="Example Image">
+</p>
 
 ### Optional arguments:
 - #### Borders
