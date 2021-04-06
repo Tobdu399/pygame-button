@@ -10,7 +10,8 @@ Python pygame module for creating simple buttons. This module requires at least 
 - #### pygame < 2.0.0
     - To install the latest version of pygame, find the corresponding command for your OS below and run the command in your terminal
 - #### pygame_button
-    - Not published yet
+    - `python -m pip install -i https://test.pypi.org/simple/ pygame-button-tobdu399`
+    - [https://test.pypi.org/project/pygame-button-tobdu399/](https://test.pypi.org/project/pygame-button-tobdu399/)
 
 | OS                 | Command                                   |
 | :---               | :----                                     |
